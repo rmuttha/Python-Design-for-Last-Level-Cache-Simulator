@@ -1,4 +1,4 @@
-# MSD_PROJECT_GRP8
+# Python Design for Last Level Cache Simulator
 The simulation of the last level cache (LLC) for a new processor
 that can be used with up to three other processors in a shared memory configuration.
 
